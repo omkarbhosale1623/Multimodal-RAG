@@ -4,8 +4,6 @@ A production-grade **Retrieval-Augmented Generation** system that ingests **text
 
 Powered by **OpenAI text-embedding-3-small** for retrieval and **GPT-4o-mini** for multimodal reasoning.
 
-![Architecture Overview](docs/screenshots/architecture-overview.png)
-
 ![Chat Interface](docs/screenshots/chat-empty.png)
 
 ---
@@ -326,4 +324,4 @@ Built by Omkar Bhosale
 - Email: omkarbhosale1623@gmail.com
 - Phone: +91 7559173480
 
-Part of the Omkar Bhosale AI Architect Mastery course.
+Powered by the Omkar Bhosale.
